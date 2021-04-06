@@ -1,0 +1,5 @@
+create file5.txt
+openFile file5.txt w
+writeFile file5.txt w abcdefg thread 5
+readFile file5.txt r
+closeFile file5.txt

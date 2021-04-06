@@ -1,0 +1,5 @@
+create file2.txt
+openFile file2.txt w
+writeFile file2.txt w thread 2 demo
+readFile file2.txt r
+closeFile file2.txt

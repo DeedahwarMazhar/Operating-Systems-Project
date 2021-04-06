@@ -1,0 +1,6 @@
+create file1.tst
+openFile file1.tst w
+writeFile file1.tst w  thread 1 demo
+readFile file1.tst r
+memoryMap
+closeFile file1.tst

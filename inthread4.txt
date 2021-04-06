@@ -1,0 +1,5 @@
+create file4.txt
+openFile file4.txt w
+writeFile file4.txt w thread 4 demo
+readFile file4.txt r
+memoryMap
